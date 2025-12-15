@@ -37,4 +37,4 @@ Based on the visual analysis provided by the charts (Attrition by Department, At
 
 ##  Dashboard Preview
 
-`![Dashboard Final View](Dashboard Screenshot.jpg)`
+![HR Analytics Dashboard Final View](./Dashboard Screenshot.jpg)
