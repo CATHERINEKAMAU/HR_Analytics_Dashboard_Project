@@ -36,4 +36,4 @@ Based on the visual analysis provided by the charts (Attrition by Department, At
 * **Calculated Metrics:** Custom fields for Tenure, Age Groups, and Attrition Rate calculation.
 
 ### Static View (High-Resolution Screenshot)
-![HR Analytics Dashboard Final View](./Dashboard Screenshot.jpg)
+![HR Analytics Dashboard Final View](./dashboard_final.jpg)
