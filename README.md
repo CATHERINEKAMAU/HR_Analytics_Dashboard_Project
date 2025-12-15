@@ -35,6 +35,5 @@ Based on the visual analysis provided by the charts (Attrition by Department, At
 * **Advanced Formulas:** Implementation of `GETPIVOTDATA` for creating **Dynamic KPI Cards** that update instantly when Slicers are applied.
 * **Calculated Metrics:** Custom fields for Tenure, Age Groups, and Attrition Rate calculation.
 
-##  Dashboard Preview
-
+### Static View (High-Resolution Screenshot)
 ![HR Analytics Dashboard Final View](./Dashboard Screenshot.jpg)
