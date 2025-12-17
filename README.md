@@ -37,5 +37,7 @@ Based on the visual analysis provided by the charts (Attrition by Department, At
 
 ### Static View (High-Resolution Screenshot)
 ![HR Analytics Dashboard Final View](./Dashboard.jpg)
-### Proof of Interactivity (GIF/Video)
-![Slicer In Action - Interactivity Proof](./slicer.gif)
+#### Proof of Interactivity (Slicer in Action)
+<p align="center">
+  <img src="./slicer.GIF" alt="Slicer In Action - Interactivity Proof" width="800" />
+</p>
