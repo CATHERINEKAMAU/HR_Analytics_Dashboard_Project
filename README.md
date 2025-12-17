@@ -38,4 +38,4 @@ Based on the visual analysis provided by the charts (Attrition by Department, At
 ### Static View (High-Resolution Screenshot)
 ![HR Analytics Dashboard Final View](./Dashboard.jpg)
 ### Proof of Interactivity (GIF/Video)
-![Slicer in Action - Interactivity Proof](./Slicer_In_Action.gif)
+![Slicer In Action - Interactivity Proof](./Slicer_In_Action.gif)
